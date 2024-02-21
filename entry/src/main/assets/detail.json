@@ -1,0 +1,3410 @@
+{
+  "hotelBaseInfo": {
+    "address": "东西湖区城市便捷酒店999",
+    "basicFacilities": [
+      {
+        "code": "icon-parking",
+        "icon": "default",
+        "name": "停车场（免费）",
+        "type": 0
+      },
+      {
+        "code": "icon-wifi",
+        "icon": "default",
+        "name": "免费WIFI",
+        "type": 0
+      },
+      {
+        "code": "icon-elevator",
+        "icon": "default",
+        "name": "内有电梯",
+        "type": 0
+      },
+      {
+        "code": "icon-breakfast",
+        "icon": "default",
+        "name": "自助营养早餐厅",
+        "type": 0
+      },
+      {
+        "code": "icon-gym",
+        "icon": "default",
+        "name": "健身房",
+        "type": 0
+      },
+      {
+        "code": "icon-laundromat",
+        "icon": "default",
+        "name": "自助洗衣房",
+        "type": 0
+      }
+    ],
+    "brandCode": "csbj",
+    "breakFast": false,
+    "businessArea": "白云同和/龙洞地区",
+    "cityCode": "22",
+    "cmsOpenDate": "2022-09-21",
+    "commentNum": 278,
+    "decorateDate": "2022-09-13",
+    "description": "城市便捷酒店（广州天平架地铁站店）位于广州市天河区沙太南路银利街87号（驾车：银河大酒店对面银利茶叶博览中心牌坊内进250米；公交：南华工商学院站、侨乐新村站、天平架公交枢纽站；地铁站：6号线天平架站B出口右转过马路沿沙太路北行至侨乐新村公交站旁桥底处内进250米），地处梅花园地铁站、燕塘地铁站、天平架地铁站三地铁交汇中心位置、毗邻广州东站、天河客运站、天河北路、天河体育中心、鼎龙国际大酒店、南洋长胜酒店、石油培训中心；梅花园商业广场、京溪南方医院、南方医科大学等；临近环城高速沙河立交-广从收费站、广园快速路、沙太路、广州大道北等市区主干道。酒店周边餐饮、休闲、娱乐、购物等配套完善。",
+    "grade": 5.0,
+    "hotelPolicy": "1.会员本人入住赠送积分，可兑换礼品或免费房\r\n2.在线支付房费，房间可预留整晚\r\n3.本人本卡入住订单，官网点评酒店，可获得50积分\r\n4.酒店通常14:00办理入住，早到可能需要等待。如需在0:00-6:00入住，入住日期请选择前一天。例：12月18日3：00入住，应选择入住日期为12月17日\r\n",
+    "isParkingFree": false,
+    "latitude": "23.166625",
+    "longitude": "113.325228",
+    "lowestFee": "72",
+    "name": "广州天平架地铁站店城市便捷",
+    "network": 1,
+    "qualityScore": 0.0,
+    "satisfyRate": "0.050",
+    "status": "OPEN",
+    "tel": "020-87746112",
+    "wxLatitude": "23.166802244391565",
+    "wxLongitude": "113.32406044006348",
+    "qualityDesc": "评分描述"
+  },
+  "hotelFacilities": [
+    {
+      "code": "icon-breakfast",
+      "icon": "default",
+      "name": "自助营养早餐厅",
+      "type": 0
+    },
+    {
+      "code": "icon-coffee",
+      "icon": "default",
+      "name": "自助咖啡机",
+      "type": 1
+    },
+    {
+      "code": "icon-elevator",
+      "icon": "default",
+      "name": "内有电梯",
+      "type": 0
+    },
+    {
+      "code": "icon-cardswiping",
+      "icon": "default",
+      "name": "支持刷卡",
+      "type": 0
+    },
+    {
+      "code": "icon-receiveforeignguests",
+      "icon": "default",
+      "name": "外宾接待",
+      "type": 0
+    },
+    {
+      "code": "icon-indoorpool",
+      "icon": "default",
+      "name": "室内泳池",
+      "type": 0
+    },
+    {
+      "code": "icon-swimmingpool",
+      "icon": "default",
+      "name": "露天泳池",
+      "type": 0
+    },
+    {
+      "code": "icon-telephone",
+      "icon": "default",
+      "name": "电话",
+      "type": 1
+    },
+    {
+      "code": "icon-broadband",
+      "icon": "default",
+      "name": "免费宽带",
+      "type": 1
+    },
+    {
+      "code": "icon-hotwater",
+      "icon": "default",
+      "name": "24小时热水供应",
+      "type": 1
+    },
+    {
+      "code": "icon-wifi",
+      "icon": "default",
+      "name": "免费WIFI",
+      "type": 0
+    },
+    {
+      "code": "icon-laundromat",
+      "icon": "default",
+      "name": "自助洗衣房",
+      "type": 0
+    },
+    {
+      "code": "icon-leisurebooks",
+      "icon": "default",
+      "name": "休闲书吧",
+      "type": 0
+    },
+    {
+      "code": "icon-gym",
+      "icon": "default",
+      "name": "健身房",
+      "type": 0
+    },
+    {
+      "code": "icon-parking",
+      "icon": "default",
+      "name": "停车场（免费）",
+      "type": 0
+    }
+  ],
+  "hotelRoomTypes": [
+    {
+      "bedTypeScore": 0,
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 4.00,
+            "totalFeePrice": 4.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省4元"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "首单立减100元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": true,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 86.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 90.00,
+          "rightsTags": [
+            {
+              "sort": 1,
+              "type": "orange",
+              "value": "最高可获得多少积分"
+            },
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "普通表亲啊"
+            },
+            {
+              "sort": 1,
+              "type": "nervous",
+              "value": "库存标签"
+            }
+          ],
+          "roomTypeId": "DORA",
+          "usableCount": 1
+        },
+        {
+          "activityCode": "Bar000031",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 14.00,
+            "couponFee": 0,
+            "memberFeePrice": 4.00,
+            "totalFeePrice": 18.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省18元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 72
+          },
+          "minCheckOutDays": 1,
+          "name": "自上而下-集团-8折-门市价",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 90.00,
+          "rateRemark": "自上而下-集团-8折-门市价",
+          "rightsTags": [
+            {
+              "sort": 1,
+              "type": "nervous",
+              "value": "仅剩1间"
+            }
+          ],
+          "roomTypeId": "DORA",
+          "usableCount": 1
+        },
+        {
+          "activityCode": "Bar000003",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 9.00,
+            "couponFee": 0,
+            "memberFeePrice": 4.00,
+            "totalFeePrice": 13.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省13元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 77
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金86折-单店",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 90.00,
+          "rateRemark": "单店呈旅金86折-单店",
+          "rightsTags": [
+            {
+              "sort": 1,
+              "type": "nervous",
+              "value": "仅剩1间"
+            }
+          ],
+          "roomTypeId": "DORA",
+          "usableCount": 1
+        },
+        {
+          "activityCode": "Bar000002",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 5.00,
+            "couponFee": 0,
+            "memberFeePrice": 4.00,
+            "totalFeePrice": 9.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省9元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 81
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅银9折-全国",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 90.00,
+          "rateRemark": "单店呈旅银9折-全国",
+          "rightsTags": [
+            {
+              "sort": 1,
+              "type": "nervous",
+              "value": "仅剩1间"
+            }
+          ],
+          "roomTypeId": "DORA",
+          "usableCount": 1
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 4500
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 4500,
+          "rightsTags": [],
+          "roomTypeId": "DORA",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 72,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "pictureListUrl": [],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "rackFee": 90.00,
+      "roomTypeId": "DORA",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "totalCount": 1
+    },
+    {
+      "areaDesc": "18-23㎡",
+      "bedCount": 2,
+      "bedDesc": "0.8x2.0m-0.8x2.0m-双床",
+      "bedType": "大床",
+      "bedTypeScore": 30,
+      "floor": "1",
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 8.00,
+            "totalFeePrice": 8.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省8元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 151.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 159.00,
+          "rightsTags": [],
+          "roomTypeId": "TD",
+          "usableCount": 22
+        },
+        {
+          "activityCode": "Bar000031",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 24.00,
+            "couponFee": 0,
+            "memberFeePrice": 8.00,
+            "totalFeePrice": 32.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省32元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 127
+          },
+          "minCheckOutDays": 1,
+          "name": "自上而下-集团-8折-门市价",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 159.00,
+          "rateRemark": "自上而下-集团-8折-门市价",
+          "rightsTags": [],
+          "roomTypeId": "TD",
+          "usableCount": 22
+        },
+        {
+          "activityCode": "Bar000003",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 14.00,
+            "couponFee": 0,
+            "memberFeePrice": 8.00,
+            "totalFeePrice": 22.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省22元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 137
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金86折-单店",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 159.00,
+          "rateRemark": "单店呈旅金86折-单店",
+          "rightsTags": [],
+          "roomTypeId": "TD",
+          "usableCount": 22
+        },
+        {
+          "activityCode": "Bar000002",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 8.00,
+            "couponFee": 0,
+            "memberFeePrice": 8.00,
+            "totalFeePrice": 16.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省16元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 143
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅银9折-全国",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 159.00,
+          "rateRemark": "单店呈旅银9折-全国",
+          "rightsTags": [],
+          "roomTypeId": "TD",
+          "usableCount": 22
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 8000
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 8000,
+          "rightsTags": [],
+          "roomTypeId": "TD",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 127,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/38C7067A482C40CD8779592E608141E8.png",
+      "pictureListUrl": [
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1247D86E392E43A7BA0C5CDDDBE6B46C.png",
+          "roomTypePicId": "TD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/9F9F4A90A91640C48AE4FC28D2DD588D.png",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1247D86E392E43A7BA0C5CDDDBE6B46C.png",
+          "roomTypePicId": "TD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/9F9F4A90A91640C48AE4FC28D2DD588D.png",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1247D86E392E43A7BA0C5CDDDBE6B46C.png",
+          "roomTypePicId": "TD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/9F9F4A90A91640C48AE4FC28D2DD588D.png",
+          "type": "RoomTypePic"
+        }
+      ],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1247D86E392E43A7BA0C5CDDDBE6B46C.png",
+      "rackFee": 159.00,
+      "roomTypeId": "TD",
+      "roomTypeName": "特惠大床房",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/9F9F4A90A91640C48AE4FC28D2DD588D.png",
+      "totalCount": 22,
+      "windowDesc": "无窗"
+    },
+    {
+      "areaDesc": "8-36㎡",
+      "bedCount": 2,
+      "bedDesc": "0.8x2.0m-0.8x2.0m-双床",
+      "bedType": "大床",
+      "bedTypeScore": 30,
+      "floor": "1",
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 7.00,
+            "totalFeePrice": 7.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省7元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 132.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 139.00,
+          "rightsTags": [],
+          "roomTypeId": "BD",
+          "usableCount": 44
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 7000
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 7000,
+          "rightsTags": [],
+          "roomTypeId": "BD",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 132.00,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/FC9E87ED28154E24BCB5A53A958AF044.JPG",
+      "pictureListUrl": [
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/085cfee603f34423b51d1c50500e28d6_big.JPG",
+          "roomTypePicId": "BD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/2974C7D3A0C44A4999F1F4F6464A9B79.JPG",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/B4023567B61F49259C1C95F46BF9DF6F.png",
+          "roomTypePicId": "BD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1112410A7CDA487382BD877976B407D7.png",
+          "type": "RoomTypePic"
+        }
+      ],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/085cfee603f34423b51d1c50500e28d6_big.JPG",
+      "rackFee": 139.00,
+      "roomTypeId": "BD",
+      "roomTypeName": "标准大床房",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/2974C7D3A0C44A4999F1F4F6464A9B79.JPG",
+      "totalCount": 44,
+      "windowDesc": "大部分有窗"
+    },
+    {
+      "areaDesc": "22-25㎡",
+      "bedCount": 1,
+      "bedDesc": "1.8x2.0m-大床",
+      "bedType": "大床",
+      "bedTypeScore": 30,
+      "floor": "1",
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 10.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省10元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 190.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000042",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 30.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 40.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省40元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 1,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 160
+          },
+          "minCheckOutDays": 1,
+          "name": "单店协议8折（含早）",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000041",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 30.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 40.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省40元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 1,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 160
+          },
+          "minCheckOutDays": 1,
+          "name": "集团全国协议8折（含早）",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000058",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 30.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 40.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省40元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 1,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 160
+          },
+          "minCheckOutDays": 1,
+          "name": "集团呈旅黑金协议(含早)-8折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000009",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 30.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 40.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省40元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 1,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 160
+          },
+          "minCheckOutDays": 1,
+          "name": "集团呈旅黑金协议-8折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000031",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 30.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 40.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省40元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 160
+          },
+          "minCheckOutDays": 1,
+          "name": "自上而下-集团-8折-门市价",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "自上而下-集团-8折-门市价",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000027",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 26.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 36.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省36元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 164
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅白金协议-82折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000015",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 26.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 36.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省36元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 164
+          },
+          "minCheckOutDays": 1,
+          "name": "大区呈旅白金协议-82折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000021",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 26.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 36.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省36元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 164
+          },
+          "minCheckOutDays": 1,
+          "name": "小区呈旅白金协议-82折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000003",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 18.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 28.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省28元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 172
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金86折-单店",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "单店呈旅金86折-单店",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000025",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 18.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 28.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省28元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 172
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金协议-86折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000013",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 18.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 28.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省28元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 172
+          },
+          "minCheckOutDays": 1,
+          "name": "大区呈旅金协议-86折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000019",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 18.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 28.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省28元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 172
+          },
+          "minCheckOutDays": 1,
+          "name": "小区呈旅金协议-86折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000005",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 18.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 28.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省28元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 172
+          },
+          "minCheckOutDays": 1,
+          "name": "集团呈旅金协议-86折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000023",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 10.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 20.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省20元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 180
+          },
+          "minCheckOutDays": 1,
+          "name": "单店全国呈旅银协议-9折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000002",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 10.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 20.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省20元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 180
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅银9折-全国",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "单店呈旅银9折-全国",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000011",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 10.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 20.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省20元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 180
+          },
+          "minCheckOutDays": 1,
+          "name": "大区全国呈旅银协议-9折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000017",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 10.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 20.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省20元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 180
+          },
+          "minCheckOutDays": 1,
+          "name": "小区全国呈旅银协议-9折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000001",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 10.00,
+            "couponFee": 0,
+            "memberFeePrice": 10.00,
+            "totalFeePrice": 20.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省20元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 180
+          },
+          "minCheckOutDays": 1,
+          "name": "集团呈旅银协议-9折",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000057",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 10.00
+          },
+          "discountTags": [],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": false,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 250
+          },
+          "minCheckOutDays": 1,
+          "name": "东呈金卡活动",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "Bar000059",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 10.00
+          },
+          "discountTags": [],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 260
+          },
+          "minCheckOutDays": 1,
+          "name": "房+埋堆堆年卡 ",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 200.00,
+          "rateRemark": "",
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 72
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 10000
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 10000,
+          "rightsTags": [],
+          "roomTypeId": "SD",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 160,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/53B5465C84EE4DCB83B5E37B73C6BA9B.png",
+      "pictureListUrl": [
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+          "roomTypePicId": "SD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+          "roomTypePicId": "SD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+          "roomTypePicId": "SD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+          "roomTypePicId": "SD",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+          "type": "RoomTypePic"
+        }
+      ],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+      "rackFee": 200.00,
+      "roomTypeId": "SD",
+      "roomTypeName": "商务大床房",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+      "totalCount": 72,
+      "windowDesc": "有窗"
+    },
+    {
+      "areaDesc": "1㎡",
+      "bedCount": 1,
+      "bedDesc": "2.2x2.2m-圆床",
+      "bedType": "圆床",
+      "bedTypeScore": 10,
+      "floor": "1",
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 5.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省5元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 86.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 91.00,
+          "rightsTags": [],
+          "roomTypeId": "edc",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000031",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 13.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 18.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省18元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 73
+          },
+          "minCheckOutDays": 1,
+          "name": "自上而下-集团-8折-门市价",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 91.00,
+          "rateRemark": "自上而下-集团-8折-门市价",
+          "rightsTags": [],
+          "roomTypeId": "edc",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000003",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 8.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 13.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省13元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 78
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金86折-单店",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 91.00,
+          "rateRemark": "单店呈旅金86折-单店",
+          "rightsTags": [],
+          "roomTypeId": "edc",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000002",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 4.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 9.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省9元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 82
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅银9折-全国",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 91.00,
+          "rateRemark": "单店呈旅银9折-全国",
+          "rightsTags": [],
+          "roomTypeId": "edc",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 4600
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 4600,
+          "rightsTags": [],
+          "roomTypeId": "edc",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 2147483647,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/248310D9D8F0427B8715249E23AF9135.png",
+      "pictureListUrl": [
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/48D816F9CCC34D9BBB2B1A637BC9AE06.png",
+          "roomTypePicId": "edc",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/EF2F22E1E54A44FFBFBC1C19B1C3FED3.png",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3EBD5B6F7CA748AEBF39921C2D70A715.png",
+          "roomTypePicId": "edc",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/C98B51E58C7D40B793B56409E07CB483.png",
+          "type": "RoomTypePic"
+        },
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/CDAF30FC50B54FEBBB298C51A87C19CB.png",
+          "roomTypePicId": "edc",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1D1A261C2CB542E7BE99C35EEC099FF8.png",
+          "type": "RoomTypePic"
+        }
+      ],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/48D816F9CCC34D9BBB2B1A637BC9AE06.png",
+      "rackFee": 91.00,
+      "roomTypeId": "edc",
+      "roomTypeName": "edc专属",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/EF2F22E1E54A44FFBFBC1C19B1C3FED3.png",
+      "totalCount": 0,
+      "windowDesc": "内窗"
+    },
+    {
+      "areaDesc": "15-35m2",
+      "bedCount": 2,
+      "bedDesc": "0.8x2.0m-0.8x2.0m-双床",
+      "bedTypeScore": 0,
+      "floor": "1",
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 450.00,
+            "totalFeePrice": 450.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省450元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 8548.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 8998.00,
+          "rightsTags": [],
+          "roomTypeId": "BS",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000115",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 2249.00,
+            "couponFee": 0,
+            "memberFeePrice": 450.00,
+            "totalFeePrice": 2699.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省2699元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 6299
+          },
+          "minCheckOutDays": 1,
+          "name": "活动折扣test1011",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 8998.00,
+          "rateRemark": "",
+          "rightsTags": [],
+          "roomTypeId": "BS",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000031",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 1350.00,
+            "couponFee": 0,
+            "memberFeePrice": 450.00,
+            "totalFeePrice": 1800.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省1800元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 7198
+          },
+          "minCheckOutDays": 1,
+          "name": "自上而下-集团-8折-门市价",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 8998.00,
+          "rateRemark": "自上而下-集团-8折-门市价",
+          "rightsTags": [],
+          "roomTypeId": "BS",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000003",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 810.00,
+            "couponFee": 0,
+            "memberFeePrice": 450.00,
+            "totalFeePrice": 1260.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省1260元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 7738
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金86折-单店",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 8998.00,
+          "rateRemark": "单店呈旅金86折-单店",
+          "rightsTags": [],
+          "roomTypeId": "BS",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000002",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 450.00,
+            "couponFee": 0,
+            "memberFeePrice": 450.00,
+            "totalFeePrice": 900.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省900元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 8098
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅银9折-全国",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 8998.00,
+          "rateRemark": "单店呈旅银9折-全国",
+          "rightsTags": [],
+          "roomTypeId": "BS",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000102",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": -250.00,
+            "couponFee": 0,
+            "memberFeePrice": 450.00,
+            "totalFeePrice": 200.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省200元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 8798
+          },
+          "minCheckOutDays": 1,
+          "name": "测试10.8特惠",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 8998.00,
+          "rateRemark": "测试10.08",
+          "rightsTags": [],
+          "roomTypeId": "BS",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 449900
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 449900,
+          "rightsTags": [],
+          "roomTypeId": "BS",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 2147483647,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/DC70B94913464820AD98E041C57AFB2F.JPG",
+      "pictureListUrl": [
+        {
+          "isMain": true,
+          "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/39be537ebf964b6589a012cc2f29b608_big.JPG",
+          "roomTypePicId": "BS",
+          "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/9055DA68AB294857B9D6AE760D8BC5C9.JPG",
+          "type": "RoomTypePic"
+        }
+      ],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/39be537ebf964b6589a012cc2f29b608_big.JPG",
+      "rackFee": 8998.00,
+      "roomTypeId": "BS",
+      "roomTypeName": "标准双床房",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/9055DA68AB294857B9D6AE760D8BC5C9.JPG",
+      "totalCount": 0,
+      "windowDesc": "大部分有窗"
+    },
+    {
+      "bedTypeScore": 0,
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 5.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省5元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 88.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 93.00,
+          "rightsTags": [],
+          "roomTypeId": "JT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000031",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 14.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 19.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省19元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 74
+          },
+          "minCheckOutDays": 1,
+          "name": "自上而下-集团-8折-门市价",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 93.00,
+          "rateRemark": "自上而下-集团-8折-门市价",
+          "rightsTags": [],
+          "roomTypeId": "JT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000003",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 8.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 13.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省13元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 80
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金86折-单店",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 93.00,
+          "rateRemark": "单店呈旅金86折-单店",
+          "rightsTags": [],
+          "roomTypeId": "JT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000002",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 4.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 9.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省9元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 84
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅银9折-全国",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 93.00,
+          "rateRemark": "单店呈旅银9折-全国",
+          "rightsTags": [],
+          "roomTypeId": "JT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 4700
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 4700,
+          "rightsTags": [],
+          "roomTypeId": "JT",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 2147483647,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "pictureListUrl": [],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "rackFee": 93.00,
+      "roomTypeId": "JT",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "totalCount": 0
+    },
+    {
+      "bedTypeScore": 0,
+      "hotelRoomStateList": [
+        {
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 5.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省5元"
+            }
+          ],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 87.00
+          },
+          "name": "会员预订",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "优惠券"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 92.00,
+          "rightsTags": [],
+          "roomTypeId": "HJJT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000031",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 13.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 18.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省18元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 74
+          },
+          "minCheckOutDays": 1,
+          "name": "自上而下-集团-8折-门市价",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 92.00,
+          "rateRemark": "自上而下-集团-8折-门市价",
+          "rightsTags": [],
+          "roomTypeId": "HJJT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000003",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 8.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 13.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省13元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 79
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅金86折-单店",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 92.00,
+          "rateRemark": "单店呈旅金86折-单店",
+          "rightsTags": [],
+          "roomTypeId": "HJJT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "Bar000002",
+          "bizDay": "2022-10-12",
+          "bookType": "NS",
+          "discountDetail": {
+            "activityFeePrice": 4.00,
+            "couponFee": 0,
+            "memberFeePrice": 5.00,
+            "totalFeePrice": 9.00
+          },
+          "discountTags": [
+            {
+              "sort": 2,
+              "type": "def",
+              "value": "已省9元"
+            }
+          ],
+          "earlyDays": 0,
+          "includeBreakfast": 0,
+          "isPrepay": true,
+          "isTrying": false,
+          "maxCheckOutDays": 99,
+          "memberRoomPrice": {
+            "feeType": "RMB",
+            "memberTypeId": "01",
+            "name": "普卡",
+            "roomFee": 83
+          },
+          "minCheckOutDays": 1,
+          "name": "单店呈旅银9折-全国",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "免费取消"
+            }
+          ],
+          "rackFee": 92.00,
+          "rateRemark": "单店呈旅银9折-全国",
+          "rightsTags": [],
+          "roomTypeId": "HJJT",
+          "usableCount": 0
+        },
+        {
+          "activityCode": "POI",
+          "bizDay": "2022-10-12",
+          "bookType": "POINT",
+          "discountTags": [],
+          "isPrepay": false,
+          "isTrying": false,
+          "memberRoomPrice": {
+            "feeType": "POINT",
+            "memberTypeId": "00",
+            "name": "全部",
+            "roomFee": 4600
+          },
+          "name": "积分换房",
+          "propertyTags": [
+            {
+              "sort": 1,
+              "type": "def",
+              "value": "无早"
+            },
+            {
+              "sort": 3,
+              "type": "def",
+              "value": "不可取消"
+            }
+          ],
+          "rackFee": 4600,
+          "rightsTags": [],
+          "roomTypeId": "HJJT",
+          "usableCount": 0
+        }
+      ],
+      "lowestFee": 2147483647,
+      "minPicUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "pictureListUrl": [],
+      "pictureUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "rackFee": 92.00,
+      "roomTypeId": "HJJT",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFilenull",
+      "totalCount": 0
+    }
+  ],
+  "memberRight": {
+    "delayCheckOut": "12:00",
+    "discount": 9.5,
+    "hasBreakfast": false,
+    "keepTime": "18:00",
+    "memberTypeID": "01",
+    "pointRate": 2,
+    "prePointRate": 2
+  },
+  "pictures": [
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/0374421C9E834FF5B4185864B183ADDA.jpeg",
+      "thumbnailUrl": "/image/Hotel/0374421C9E834FF5B4185864B183ADDA.jpeg",
+      "type": "WG"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/C03CD108765C4FF08003BB85DAF277BC.png",
+      "thumbnailUrl": "/image/Hotel/5CAB40B2B2D144A1801D0A0D1D015C74.png",
+      "type": "DTM"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/1AE1D5FA4A6E4B7684B9E5C23EA69ACF.png",
+      "thumbnailUrl": "/image/Hotel/C266D72F94D444D9843B1DED589D21D6.png",
+      "type": "DTM"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/8A472DC8284E499387E6C7F729FD0317.png",
+      "thumbnailUrl": "/image/Hotel/CAC33AB791B74B218793D898DBB3A297.png",
+      "type": "DTM"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/387BA7383BA64E35A09A126D0D25C23F.png",
+      "thumbnailUrl": "/image/Hotel/F31A9FD9BC7A4E249F6EA0B1FB0883B1.png",
+      "type": "DT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/387BA7383BA64E35A09A126D0D25C23F.png",
+      "thumbnailUrl": "/image/Hotel/F31A9FD9BC7A4E249F6EA0B1FB0883B1.png",
+      "type": "DT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/4B93D9AB4B974223B07A1C0A08CCCAAA.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/8738230DB3074C579C2246785AF19579.JPG",
+      "type": "DT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/EABC2C33C9BA445B89C4A1F9249B0A7A.png",
+      "thumbnailUrl": "/image/Hotel/620F7D4F496847C89D17D371FA1E19EC.png",
+      "type": "SPA"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/EABC2C33C9BA445B89C4A1F9249B0A7A.png",
+      "thumbnailUrl": "/image/Hotel/620F7D4F496847C89D17D371FA1E19EC.png",
+      "type": "SPA"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/2B2351515D304A2AB65B07AD6B945D47.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/A2CBD697691C4AE4AF754EC49D36CF08.JPG",
+      "type": "DT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/3FF5A0E50C5F427290C571ED2571804E.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/F498D47829974F5DB7B093134C61E25D.JPG",
+      "type": "DT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/EB9D90B8247C4B8C9DE3B8E3BE18EFB9.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/CFE64539D41C4C12A07799963BA7D686.JPG",
+      "type": "SB"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/74AB9862BB7A446AB7290E2E507E5660.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/6F6AFA5CB38749688A848787202382B7.JPG",
+      "type": "XYF"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/9503E5F5806B419CB969B8D06EC0016C.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/17DE4317FE714417A1F8F83DA23DC047.JPG",
+      "type": "XYF"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/7CDD3832FE3F478499E0AECA37FA87B0.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/E995DEF18108459C8D6A4FEF70201492.JPG",
+      "type": "CT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/40E5F4A767E34C56BBBF2FD83F6D3743.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/8B2644B8FF9242278926B14AF8B1FF4D.JPG",
+      "type": "CT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/0A0B734C3F0C477B90592F37867F9DC3.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/C8197753D01C4695BBD29700A028955D.JPG",
+      "type": "CT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/4282B689115A42168C16B7B7889F2C94.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/F1CDE75391B140A08C87737AFE357505.JPG",
+      "type": "CT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/DEB21BE3A761400B95BC56099E95DCD3.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/040CEC2978094D75B5A0B82B69FEDAE9.JPG",
+      "type": "ZL"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/2E7A31811E7347BAA3B132AA41F2B140.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/52D1BA40A4314C15BFEBE87B64CBA44A.JPG",
+      "type": "ZL"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/CF6DA194211641AFA4C5AC6CB667ABBA.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/DB8E6DD438D24C80A6698C7E6253C927.JPG",
+      "type": "ZL"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/B7FD2E1D1FE447E5A446EAD128F76FDD.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/0FD06AF4B4164FDBBB23953F1C940DA4.JPG",
+      "type": "XSJ"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/497D1F88F4FA4483B1BBF47F17E150A4.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/B2CA5B1FA43C42CD967B568E7AB10D8F.JPG",
+      "type": "XSJ"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/20190715/F34902ED9A7A42048DCF9B1F17D7722B.JPG",
+      "thumbnailUrl": "/image/Hotel/20190715/285FD9A15D9B43CC88D46BCE2324FBD1.JPG",
+      "type": "XSJ"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/24798e3742744c2cbf31cfe2df9d2dba_big.jpg",
+      "thumbnailUrl": "/image/Hotel/20190701/3FD6286C5FC04C658D386380F3976672.jpg",
+      "type": "XYF"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/8ed916d1beaf448ab96fb9624d4380ef_big.jpg",
+      "thumbnailUrl": "/image/Hotel/8ed916d1beaf448ab96fb9624d4380ef_big.jpg",
+      "type": "WG"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/e9a9c6ccd2fe486d8e2f0d2de3429ba1_big.jpg",
+      "thumbnailUrl": "/image/Hotel/20190701/47868AE4E0284EF0B95BAFA03F813BA7.jpg",
+      "type": "XSJ"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/b68b03a793864d8c9803fb0021774097_big.jpg",
+      "thumbnailUrl": "/image/Hotel/20190701/AC0B39D434DA4222BD8F9B032E9ACC62.jpg",
+      "type": "ZL"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/5e2403805f6d47e4ae43c4eedef994fe_big.png",
+      "thumbnailUrl": "/image/Hotel/20190701/2765D007985C41CDA5C696C7EA61C1D1.png",
+      "type": "CT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/6e7a04d681744f22b17da2a786473ab6_big.jpg",
+      "thumbnailUrl": "/image/Hotel/20190701/05B09C99EA8B480AB14B0FCF26D10179.jpg",
+      "type": "DT"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/c0249c0d78a64d4586c3246073e504ab_big.png",
+      "thumbnailUrl": "/image/Hotel/20190701/14446127A99B42D8BE662BB8011BD8D7.png",
+      "type": "SB"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/6e7a04d681744f22b17da2a786473ab6_big.jpg",
+      "thumbnailUrl": "/image/Hotel/6e7a04d681744f22b17da2a786473ab6_big.jpg",
+      "type": "其他"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/5e2403805f6d47e4ae43c4eedef994fe_big.png",
+      "thumbnailUrl": "/image/Hotel/5e2403805f6d47e4ae43c4eedef994fe_big.png",
+      "type": "其他"
+    },
+
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/085cfee603f34423b51d1c50500e28d6_big.JPG",
+      "roomTypeName": "标准大床房",
+      "roomTypePicId": "BD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/2974C7D3A0C44A4999F1F4F6464A9B79.JPG",
+      "type": "RoomTypePic"
+    }
+  ,
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/39be537ebf964b6589a012cc2f29b608_big.JPG",
+      "roomTypeName": "标准双床房",
+      "roomTypePicId": "BS",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/20190705/9055DA68AB294857B9D6AE760D8BC5C9.JPG",
+      "type": "RoomTypePic"
+    }
+  ,
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/B4023567B61F49259C1C95F46BF9DF6F.png",
+      "roomTypeName": "标准大床房",
+      "roomTypePicId": "BD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1112410A7CDA487382BD877976B407D7.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "精选大床房",
+      "roomTypePicId": "JXD",
+      "thumbnailUrl": "/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "精选大床房",
+      "roomTypePicId": "JXD",
+      "thumbnailUrl": "/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "精选大床房",
+      "roomTypePicId": "JXD",
+      "thumbnailUrl": "/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "精选大床房",
+      "roomTypePicId": "JXD",
+      "thumbnailUrl": "/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/9EDF1A7CA0D44D7AA088E8E2E13A63E3.png",
+      "roomTypeName": "精选双床房",
+      "roomTypePicId": "JXS",
+      "thumbnailUrl": "/image/Hotel/FFA1D2E363014764B93BE1BD57664C13.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/9EDF1A7CA0D44D7AA088E8E2E13A63E3.png",
+      "roomTypeName": "精选双床房",
+      "roomTypePicId": "JXS",
+      "thumbnailUrl": "/image/Hotel/FFA1D2E363014764B93BE1BD57664C13.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/9EDF1A7CA0D44D7AA088E8E2E13A63E3.png",
+      "roomTypeName": "精选双床房",
+      "roomTypePicId": "JXS",
+      "thumbnailUrl": "/image/Hotel/FFA1D2E363014764B93BE1BD57664C13.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/9EDF1A7CA0D44D7AA088E8E2E13A63E3.png",
+      "roomTypeName": "精选双床房",
+      "roomTypePicId": "JXS",
+      "thumbnailUrl": "/image/Hotel/FFA1D2E363014764B93BE1BD57664C13.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/C927592DCCD14B489F98F05BBDB17A5E.png",
+      "roomTypeName": "商务双床房",
+      "roomTypePicId": "SS",
+      "thumbnailUrl": "/image/Hotel/D4385CE80C064D2DBBC1F4ADBAF39275.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/C927592DCCD14B489F98F05BBDB17A5E.png",
+      "roomTypeName": "商务双床房",
+      "roomTypePicId": "SS",
+      "thumbnailUrl": "/image/Hotel/D4385CE80C064D2DBBC1F4ADBAF39275.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/C927592DCCD14B489F98F05BBDB17A5E.png",
+      "roomTypeName": "商务双床房",
+      "roomTypePicId": "SS",
+      "thumbnailUrl": "/image/Hotel/D4385CE80C064D2DBBC1F4ADBAF39275.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/C927592DCCD14B489F98F05BBDB17A5E.png",
+      "roomTypeName": "商务双床房",
+      "roomTypePicId": "SS",
+      "thumbnailUrl": "/image/Hotel/D4385CE80C064D2DBBC1F4ADBAF39275.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/C100EB3BF36040FCBCA0C33DC00F30F6.png",
+      "roomTypeName": "商务双床房",
+      "roomTypePicId": "SS",
+      "thumbnailUrl": "/image/Hotel/D23EA58359FE495889D87AA186910E40.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "CST",
+      "roomTypePicId": "CST",
+      "thumbnailUrl": "/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1247D86E392E43A7BA0C5CDDDBE6B46C.png",
+      "roomTypeName": "特惠大床房",
+      "roomTypePicId": "TD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/9F9F4A90A91640C48AE4FC28D2DD588D.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1247D86E392E43A7BA0C5CDDDBE6B46C.png",
+      "roomTypeName": "特惠大床房",
+      "roomTypePicId": "TD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/9F9F4A90A91640C48AE4FC28D2DD588D.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1247D86E392E43A7BA0C5CDDDBE6B46C.png",
+      "roomTypeName": "特惠大床房",
+      "roomTypePicId": "TD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/9F9F4A90A91640C48AE4FC28D2DD588D.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "edc专属",
+      "roomTypePicId": "edc",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "edc专属",
+      "roomTypePicId": "edc",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/48D816F9CCC34D9BBB2B1A637BC9AE06.png",
+      "roomTypeName": "edc专属",
+      "roomTypePicId": "edc",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/EF2F22E1E54A44FFBFBC1C19B1C3FED3.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3EBD5B6F7CA748AEBF39921C2D70A715.png",
+      "roomTypeName": "edc专属",
+      "roomTypePicId": "edc",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/C98B51E58C7D40B793B56409E07CB483.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/CDAF30FC50B54FEBBB298C51A87C19CB.png",
+      "roomTypeName": "edc专属",
+      "roomTypePicId": "edc",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/1D1A261C2CB542E7BE99C35EEC099FF8.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+      "roomTypeName": "商务大床房",
+      "roomTypePicId": "SD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+      "roomTypeName": "商务大床房",
+      "roomTypePicId": "SD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+      "roomTypeName": "商务大床房",
+      "roomTypePicId": "SD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/E3250DC0000F478EA39D9B7F7D82FD1F.png",
+      "roomTypeName": "商务大床房",
+      "roomTypePicId": "SD",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/3A5A5CCC387B4756975C09F0394A4366.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "哆啦A梦",
+      "roomTypePicId": "DORA",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "豪华景观家庭套房",
+      "roomTypePicId": "HJJT",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    },
+    {
+      "isMain": true,
+      "pictureUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/AF07F11FF74F409E90D514993CD23B85.png",
+      "roomTypeName": "城市家庭房",
+      "roomTypePicId": "JT",
+      "thumbnailUrl": "https://resource.test.dossen.com/StaticFile/image/Hotel/DB4A6E8B6F214D9D9E87D4716AC886B0.png",
+      "type": "RoomTypePic"
+    }
+  ]
+}
